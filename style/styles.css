@@ -465,7 +465,7 @@ figure {
 }
 
 .formblocktext {
-    order: -1; /* Ensures text appears above the image */
+    order: -1;
     width: 100%;
 }
 
