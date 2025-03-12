@@ -39,7 +39,7 @@ h1 {
 }
 
 h4 {
-    font-size: 1.5em;
+    font-size: 1.2em;
 
 }
 
@@ -445,4 +445,40 @@ figure {
         width: 100%;
         padding: 15px;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+    .formblock1,
+.formblock2 {
+    flex-direction: column !important;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.formblocktext {
+    order: -1; /* Ensures text appears above the image */
+    width: 100%;
+}
+
+#welcomewood,
+#qualitywood {
+    max-width: 100%;
+    width: 100%;
+}
+
+
+
+
+
+
+
 }
